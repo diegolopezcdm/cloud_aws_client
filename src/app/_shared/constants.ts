@@ -1,4 +1,4 @@
-export const HOST_BACKEND = `http://loadbalancer-diego-96899420.us-east-2.elb.amazonaws.com`
+export const HOST_BACKEND = `https://x4omg2wqt9.execute-api.us-east-2.amazonaws.com/prod`
 //export const HOST_BACKEND = `http://192.168.99.100`
 //export const HOST_BACKEND = `https://a5q8gn7rkb.execute-api.us-east-1.amazonaws.com/prod`
 
